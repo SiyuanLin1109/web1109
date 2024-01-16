@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 张三
+title: 林思源
 
 # Name pronunciation (optional)
-name_pronunciation: San Zhang
+name_pronunciation: Siyuan Lin
 
 # Full name (for SEO)
-first_name: San
-last_name: Zhang
+first_name: Siyuan
+last_name: Lin
 
 # Status emoji
 status:
-  icon: ☕🌟
+  icon: 🌟
 
 # Is this the primary user of the site?
 superuser: true
